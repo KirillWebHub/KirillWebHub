@@ -1,9 +1,73 @@
-<h1 align="center">Hi 👋, I'm Kirill</h1>
-<h3 align="center">I am a beginner Full-Stack Web Developer.</h3>
+<h1 align="center">Привет, меня зовут Кирилл 👋</h1>
+<h3 align="center">🚀 Fullstack Developer | React • Angular • TypeScript | Python • PostgreSQL • MySQL</h3>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KirillWebHub&label=Profile%20views&color=0e75b6&style=flat" alt="KirillWebHub" />
+</p>
 
+---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirillwebhub&" alt="kirillwebhub" /></p>
+### 🔥 Немного обо мне
+
+- 🧠 Fullstack разработчик с уклоном в фронтенд
+- 🎓 Студент ИТМО (направление — Информационная безопасность)
+- 💻 Пишу на **TypeScript**, **Python**, **JavaScript**
+- 🌐 Использую **React**, **Angular**, **Tailwind**, **SASS**, **PostgreSQL**
+- 💥 Постоянно качаю скиллы и разруливаю нетривиальные задачи
+- 🔍 Открыт к стажировке / фрилансу / интересным командам
+
+---
+
+### 🛠 Мой стек
+
+#### 💻 Языки:
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+
+#### ⚙️ Фреймворки / библиотеки:
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+#### 🗃️ Базы данных:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+### 🚀 Проекты
+
+| 📦 Название | 📋 Описание | 🧰 Стек |
+|------------|-------------|---------|
+| `AlgoVisualizer` | Визуализация алгоритмов Boyer-Moore и KMP | HTML, CSS, JS |
+| `SecureLoginApp` | Безопасная авторизация с уязвимостями и их анализом | React, Node.js, MongoDB |
+| `ExamAnalyzer` | Анализ экзаменационных данных + графики | Python, Pandas, Matplotlib |
+
+> 🔗 *Проекты скоро будут выложены — ведётся рефакторинг.*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KirillWebHub&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KirillWebHub&theme=radical&hide_border=false" height="165">
+</p>
+
+---
+
+### 📬 Контакты
+
+- Telegram: [@areaBTC](https://t.me/areaBTC)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Готов+к+разработке;Готов+учиться;Готов+решать+сложные+задачи;Ищу+возможности+для+роста!">
+</p>
+
 
