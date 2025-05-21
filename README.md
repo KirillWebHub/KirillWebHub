@@ -1,7 +1,6 @@
-## 🙋‍♂️ Кто я
+<h1 align="center">Hi there 👋, I'm Kirill</h1>
 
 <p align="center">
-  👨‍💻 Меня зовут <strong>Кирилл</strong> <br>
   🎓 Учусь в <strong>ИТМО</strong>, факультет <strong>безопасности информационных технологий</strong> <br>
   🧠 Fullstack developer: <strong>React</strong>, <strong>Angular</strong>, <strong>TypeScript</strong>, <strong>Python</strong>, <strong>SQL</strong>
 </p>
