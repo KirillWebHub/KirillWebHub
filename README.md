@@ -1,11 +1,13 @@
-# 🧠 GitHub README / Резюме для KirillWebHub
+<div align="center">
 
-## 👤 Общая информация
+<h3>👤 Кирилл Митичкин</h3>
+<p>
+🎓 Студент ИТМО (ФБИТ) <br>
+💼 Fullstack Developer: React / Angular / TypeScript / Python / SQL <br>
+📫 Telegram: <a href="https://t.me/areaBTC">@areaBTC</a>
+</p>
 
-**Имя:** Кирилл Митичкин
-**Университет:** ИТМО, факультет безопасности информационных технологий
-**Роль:** Fullstack Developer (React / Angular / TypeScript / Python / SQL)
-**Контакты:** [Telegram: @areaBTC](https://t.me/areaBTC)
+</div>
 
 ---
 
