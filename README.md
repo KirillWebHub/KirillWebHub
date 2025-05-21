@@ -115,8 +115,11 @@
 
 ## 📈 GitHub Stats
 
-* Активность: регулярные коммиты, структурированные репозитории
-* Привычка использовать README, Markdown, .gitignore и PowerShell-скрипты
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KirillWebHub&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KirillWebHub&theme=tokyonight&hide_border=false" height="165" />
+</p>
+
 
 ---
 
