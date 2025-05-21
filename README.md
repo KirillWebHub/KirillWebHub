@@ -113,25 +113,7 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KirillWebHub&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KirillWebHub&theme=tokyonight&hide_border=false" height="165" />
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Готов+к+новым+вызовам+и+проектам;Стремлюсь+к+чистому+и+безопасному+коду;Расту+каждый+день+как+разработчик!"/>
-</p>
-
-
----
-
 Готов к новым вызовам и задачам 💪
-**HR/Teamlead — не проходите мимо :)**
 
 
 
