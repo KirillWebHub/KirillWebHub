@@ -1,71 +1,91 @@
-<h1 align="center">Привет, меня зовут Кирилл 👋</h1>
-<h3 align="center">🚀 Fullstack Developer | React • Angular • TypeScript | Python • PostgreSQL • MySQL</h3>
+# 🧠 GitHub README / Резюме для KirillWebHub
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KirillWebHub&label=Profile%20views&color=0e75b6&style=flat" alt="KirillWebHub" />
-</p>
+## 👤 Общая информация
 
----
-
-### 🔥 Немного обо мне
-
-- 🧠 Fullstack разработчик с уклоном в фронтенд
-- 🎓 Студент ИТМО (направление — Информационная безопасность)
-- 💻 Пишу на **TypeScript**, **Python**, **JavaScript**
-- 🌐 Использую **React**, **Angular**, **Tailwind**, **SASS**, **PostgreSQL**
-- 💥 Постоянно качаю скиллы и разруливаю нетривиальные задачи
----
-
-### 🛠 Мой стек
-
-#### 💻 Языки:
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
-
-#### ⚙️ Фреймворки / библиотеки:
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-#### 🗃️ Базы данных:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**Имя:** Кирилл Митичкин
+**Университет:** ИТМО, факультет безопасности информационных технологий
+**Роль:** Fullstack Developer (React / Angular / TypeScript / Python / SQL)
+**Контакты:** [Telegram: @areaBTC](https://t.me/areaBTC)
 
 ---
 
-### 🚀 Проекты
+## 🚀 Описание профиля GitHub
 
-| 📦 Название | 📋 Описание | 🧰 Стек |
-|------------|-------------|---------|
-| `LawyerChat` | Одностраничный сайт для начинающего стартапа | HTML, CSS, JS |
-| `SecureLoginApp` | Безопасная авторизация с уязвимостями и их анализом | React, Node.js, MongoDB |
-| `ExamAnalyzer` | Анализ экзаменационных данных + графики | Python, Pandas, Matplotlib |
-
-> 🔗 *Проекты скоро будут выложены — ведётся рефакторинг.*
+> Добро пожаловать в мой GitHub! Здесь вы найдёте как учебные, так и практические проекты, реализованные в рамках курсов, лабораторных работ и личных экспериментов. Мой основной стек — фронтенд с Angular/React и бэкенд на Python/SQL или Java. Глубоко интересуюсь алгоритмами, безопасностью и архитектурой веб-приложений.
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Стек технологий
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KirillWebHub&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KirillWebHub&theme=radical&hide_border=false" height="165">
-</p>
+### 💻 Языки:
+
+TypeScript, JavaScript, Python, HTML5, CSS3, SASS, SQL
+
+### 🧩 Фреймворки и библиотеки:
+
+React, Angular, TailwindCSS
+
+### 🗃️ Базы данных:
+
+PostgreSQL, MySQL
+
+### ⚙️ Инструменты:
+
+Git, VSCode, PowerShell, Markdown, Postman
 
 ---
 
-### 📬 Контакты
+## 📦 Проекты
 
-- Telegram: [@areaBTC](https://t.me/areaBTC)
+### 1. 🔧 **Создание базовых структур БД**
+
+**Описание:** проектирование и реализация структуры базы данных с соблюдением требований информационной безопасности
+**Технологии:** SQL, PostgreSQL
+**Формат:** .docx, .pdf (лабораторная работа №1)
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Готов+к+разработке;Готов+учиться;Готов+решать+сложные+задачи;Ищу+возможности+для+роста!">
-</p>
+### 2. 🧮 **Манипулирование данными в БД**
+
+**Описание:** выполнение операций SELECT/INSERT/DELETE/UPDATE с защитой от SQL-инъекций
+**Технологии:** SQL, PostgreSQL / MySQL
+**Формат:** .docx, .pdf (лабораторная работа №2)
+
+---
+
+### 3. 💻 **AlgoServer (HeapSort, Boyer–Moore)**
+
+**Описание:** сервер на Java с CLI-интерфейсом и реализацией популярных алгоритмов
+**Технологии:** Java, PowerShell
+**Фичи:** автоматическая компиляция, модульная архитектура
+
+---
+
+### 4. 🌐 **Stepik WebHacker: Вёрстка и JS-практика**
+
+**Описание:** учебные задания по HTML, CSS, JS и адаптивной вёрстке
+**Технологии:** HTML, CSS, JavaScript, SVG
+**Темы:** DOM, формы, адаптив, компоненты, иконки
+
+---
+
+## 📈 GitHub Stats
+
+* Активность: регулярные коммиты, структурированные репозитории
+* Привычка использовать README, Markdown, .gitignore и PowerShell-скрипты
+
+---
+
+## 🧩 Идеи для улучшения
+
+* Выгрузить каждый проект в отдельный репозиторий
+* Настроить CI/CD для Java и JS-проектов
+* Добавить демо-страницы (например, GitHub Pages)
+
+---
+
+Готов к новым вызовам и задачам 💪
+**HR/Teamlead — не проходите мимо :)**
+
 
 
