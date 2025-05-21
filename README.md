@@ -1,10 +1,9 @@
 ## 🙋‍♂️ Кто я
-
-- 👨‍💻 Меня зовут **Кирилл Митичкин**
+<div align="center">
+- 👨‍💻 Меня зовут **Кирилл**
 - 🎓 Учусь в **ИТМО**, факультет **безопасности информационных технологий**
 - 🧠 Fullstack developer: **React**, **Angular**, **TypeScript**, **Python**, **SQL**
-- 📲 Telegram: [@areaBTC](https://t.me/areaBTC)
-
+</div>
 
 ---
 
