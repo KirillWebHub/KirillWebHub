@@ -1,9 +1,11 @@
 ## 🙋‍♂️ Кто я
-<div align="center">
-  - 👨‍💻 Меня зовут **Кирилл**
-  - 🎓 Учусь в **ИТМО**, факультет **безопасности информационных технологий**
-  - 🧠 Fullstack developer: **React**, **Angular**, **TypeScript**, **Python**, **SQL**
-</div>
+
+<p align="center">
+  👨‍💻 Меня зовут <strong>Кирилл</strong> <br>
+  🎓 Учусь в <strong>ИТМО</strong>, факультет <strong>безопасности информационных технологий</strong> <br>
+  🧠 Fullstack developer: <strong>React</strong>, <strong>Angular</strong>, <strong>TypeScript</strong>, <strong>Python</strong>, <strong>SQL</strong>
+</p>
+
 
 ---
 
